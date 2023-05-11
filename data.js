@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-living",
-      "name": "LIVING",
+      "id": "0-living-room",
+      "name": "LIVING ROOM",
       "levels": [
         {
           "tileSize": 256,
@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.6417873698732706,
-        "pitch": 0.020194501295865308,
+        "yaw": -1.1006422670564024,
+        "pitch": 0.016126386979152585,
         "fov": 1.365120782194846
       },
       "linkHotspots": [],
