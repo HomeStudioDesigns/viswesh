@@ -55,9 +55,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 2.706291452508485,
-        "pitch": 0.035065167403622866,
-        "fov": 1.365120782194846
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -344,7 +344,7 @@ var APP_DATA = {
   ],
   "name": "VISWESH NATIKA",
   "settings": {
-    "mouseViewMode": "drag",
+    "mouseViewMode": "qtvr",
     "autorotateEnabled": true,
     "fullscreenButton": false,
     "viewControlButtons": false
