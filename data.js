@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-living-room",
-      "name": "LIVING ROOM",
+      "id": "0-living",
+      "name": "LIVING",
       "levels": [
         {
           "tileSize": 256,
@@ -24,16 +24,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.1006422670564024,
-        "pitch": 0.016126386979152585,
-        "fov": 1.365120782194846
+        "yaw": -0.5701142449185586,
+        "pitch": 0,
+        "fov": 1.4761530569102777
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "1-family",
-      "name": "FAMILY",
+      "id": "1-family-living",
+      "name": "FAMILY LIVING",
       "levels": [
         {
           "tileSize": 256,
@@ -156,7 +156,38 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "5-kitchen-1",
+      "id": "5-wash",
+      "name": "WASH",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-kitchen-1",
       "name": "KITCHEN 1",
       "levels": [
         {
@@ -187,39 +218,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "6-kitchen-2",
-      "name": "KITCHEN 2",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "7-wash",
-      "name": "WASH",
+      "id": "7-kitchen2",
+      "name": "KITCHEN2",
       "levels": [
         {
           "tileSize": 256,
