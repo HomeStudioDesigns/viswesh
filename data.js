@@ -187,8 +187,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "6-kitchen-1",
-      "name": "KITCHEN 1",
+      "id": "6-kitchen-01",
+      "name": "KITCHEN 01",
       "levels": [
         {
           "tileSize": 256,
