@@ -125,8 +125,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "4-dining",
-      "name": "DINING",
+      "id": "4-wash",
+      "name": "WASH",
       "levels": [
         {
           "tileSize": 256,
@@ -156,8 +156,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "5-wash",
-      "name": "WASH",
+      "id": "5-dining",
+      "name": "DINING",
       "levels": [
         {
           "tileSize": 256,
@@ -342,7 +342,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "VISWESH NATIKA",
+  "name": "VISWESH_NATIKA",
   "settings": {
     "mouseViewMode": "qtvr",
     "autorotateEnabled": true,
