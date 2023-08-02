@@ -125,38 +125,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "4-wash",
-      "name": "WASH",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "5-dining",
+      "id": "4-dining",
       "name": "DINING",
       "levels": [
         {
@@ -187,7 +156,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "6-kitchen-01",
+      "id": "5-kitchen-01",
       "name": "KITCHEN 01",
       "levels": [
         {
@@ -218,8 +187,39 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "7-kitchen2",
+      "id": "6-kitchen2",
       "name": "KITCHEN2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "7-wash",
+      "name": "WASH",
       "levels": [
         {
           "tileSize": 256,
@@ -342,7 +342,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "VISWESH_NATIKA",
+  "name": "VISWESH_NATIKA_",
   "settings": {
     "mouseViewMode": "qtvr",
     "autorotateEnabled": true,
